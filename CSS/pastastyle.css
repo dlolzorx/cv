@@ -1,0 +1,19 @@
+/******************************************TAG SELECTORS*******************************/
+
+body {
+  background-color: #f1d1b5;
+}
+
+p{
+  font-size: 150%;
+}
+/******************************************CLASS SELECTORS*******************************/
+.box {
+    width:300px;
+    height:300px;
+    position:fixed;
+    margin-left:-500px; /* half of width */
+    margin-top:-200px;  /* half of height */
+    top:50%;
+    left:50%;
+}
